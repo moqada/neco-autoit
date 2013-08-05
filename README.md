@@ -1,4 +1,4 @@
-# neoco-autoit
+# neco-autoit
 
 A neocomplcache source for AutoIt.
 
